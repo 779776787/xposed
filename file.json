@@ -1,0 +1,26 @@
+{
+    "info": "资源加载成功\n吾爱破解 52PoJie.Cn",
+    "xposed": [
+        "Android_5.x.zip",
+        "Android_7.x.zip",
+        "Android_7.x_x64.zip"
+    ],
+    "files": [
+        {
+            "name": "抹机王",
+            "file": "GetNewDevice_4.2.2.2.apk"
+        },
+        {
+            "name": "JustMePlush_2.1",
+            "file": "JustMePlush_2.1.apk"
+        },
+        {
+            "name": "TrustMeAlready_1.11",
+            "file": "TrustMeAlready_1.11.apk"
+        },
+        {
+            "name": "JustTrustMe++_1.0",
+            "file": "JustTrustMe++_1.0.apk"
+        }
+    ]
+}
