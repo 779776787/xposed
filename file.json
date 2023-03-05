@@ -1,9 +1,18 @@
 {
     "info": "资源加载成功\n吾爱破解 52PoJie.Cn",
     "xposed": [
-        "Android_5.x.zip",
-        "Android_7.x.zip",
-        "Android_7.x_x64.zip"
+        {
+            "name": "安卓5.x",
+            "file": "Android_5.x.zip"
+        },
+        {
+            "name": "安卓7.x",
+            "file": "Android_7.x.zip"
+        },
+        {
+            "name": "安卓7.x_x64",
+            "file": "Android_7.x_x64.zip"
+        }
     ],
     "files": [
         {
