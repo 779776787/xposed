@@ -1,35 +1,40 @@
 {
     "info": "资源加载成功\n吾爱破解 52PoJie.Cn",
-    "xposed": [
+    "files": [
         {
             "name": "安卓5.x",
-            "file": "Android_5.x.zip"
+            "file": "Android_5.x.zip",
+            "type": "xposed"
         },
         {
             "name": "安卓7.x",
-            "file": "Android_7.x.zip"
+            "file": "Android_7.x.zip",
+            "type": "xposed"
         },
         {
             "name": "安卓7.x_x64",
-            "file": "Android_7.x_x64.zip"
-        }
-    ],
-    "files": [
+            "file": "Android_7.x_x64.zip",
+            "type": "xposed"
+        },
         {
             "name": "抹机王",
-            "file": "GetNewDevice_4.2.2.2.apk"
+            "file": "GetNewDevice_4.2.2.2.apk",
+            "type": "tool"
         },
         {
             "name": "JustMePlush_2.1",
-            "file": "JustMePlush_2.1.apk"
+            "file": "JustMePlush_2.1.apk",
+            "type": "tool"
         },
         {
             "name": "TrustMeAlready_1.11",
-            "file": "TrustMeAlready_1.11.apk"
+            "file": "TrustMeAlready_1.11.apk",
+            "type": "tool"
         },
         {
             "name": "JustTrustMe++_1.0",
-            "file": "JustTrustMe++_1.0.apk"
+            "file": "JustTrustMe++_1.0.apk",
+            "type": "tool"
         }
     ]
 }
